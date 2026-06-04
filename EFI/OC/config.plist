@@ -3242,7 +3242,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0 igfxonln=1 igfxvmt=1 -igfxblr</string>				<key>csr-active-config</key>
+				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0 igfxonln=1</string>				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
