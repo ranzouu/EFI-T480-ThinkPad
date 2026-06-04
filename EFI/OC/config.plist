@@ -1326,8 +1326,6 @@
 				<string>Display Controller</string>
 				<key>enable-backlight-smoother</key>
 				<data>AQAAAA==</data>
-				<key>enable-lspcon-support</key>
-				<data>AQAAAA==</data>
 				<key>enable-max-pixel-clock-override</key>
 				<data>AQAAAA==</data>
 				<key>force-online</key>
@@ -1336,19 +1334,13 @@
 				<data>AAAIAAIAAACYAAAA</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con0-has-lspcon</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
 				<data>AQUJAAAIAACHAQAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con1-has-lspcon</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con2-alldata</key>
 				<data>AgQKAAAIAACHAQAA</data>
 				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-has-lspcon</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
@@ -3242,7 +3234,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0</string>
+				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
