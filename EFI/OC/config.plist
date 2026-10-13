@@ -2787,7 +2787,7 @@
 				AAAAAAAAAACJZTpVLv0=
 				</data>
 				<key>boot-args</key>
-				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0 igfxonln=1 unfairgva=4</string>
+				<string>-no_compat_check -amfipassbeta revpatch=sbvmm rtcfx_exclude=80-AB hdaverbs=1 ioinit=0 darkwake=0 igfxonln=1 unfairgva=4 -lilubetaall -fu3</string>
 				<key>csr-active-config</key>
 				<data>
 				AwgAAA==
